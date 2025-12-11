@@ -1,7 +1,3 @@
-This is the `README.md` file for your simplified **Best Odds Finder** script. It includes all the necessary setup, usage instructions, and the current list of supported leagues.
-
-### `README.md`
-
 ````markdown
 # 📈 Best Odds Finder: Multi-League Betting Line Scanner
 
