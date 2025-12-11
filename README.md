@@ -1,4 +1,4 @@
-````markdown
+
 # 📈 Best Odds Finder: Multi-League Betting Line Scanner
 
 This Python script is a streamlined command-line tool designed to quickly scan odds data from The Odds API and identify the **single best price** available across all tracked sportsbooks for the Moneyline, Point Spread, and Game Total markets for any given match.
@@ -23,9 +23,8 @@ Place the `best_lines.py` file in a dedicated project directory.
 
 Open your terminal or command prompt in the project directory and run:
 
-```bash
 python3 -m pip install requests
-````
+
 
 ### Step 3: Configure Your API Key
 
