@@ -17,7 +17,7 @@ You must have the following installed and set up:
 
 ### Step 1: Clone or Download the Script
 
-Place the `prop_arb_scanner.py` file in a dedicated project directory.
+Place the `best_lines.py` file in a dedicated project directory.
 
 ### Step 2: Install Python Dependencies
 
@@ -78,9 +78,9 @@ Use these aliases with the `--sports` argument:
 
 | Goal | Command to Run |
 | :--- | :--- |
-| **Get best odds for NFL and NBA (using cached data)** | `python3 prop_arb_scanner.py --sports nfl nba` |
-| **Refresh data and get best odds for MLB and NHL** | `python3 prop_arb_scanner.py --sports mlb nhl --newcall` |
-| **Get best odds for all major US leagues** | `python3 prop_arb_scanner.py --sports nfl nba mlb nhl` |
+| **Get best odds for NFL and NBA (using cached data)** | `python3 best_lines.py --sports nfl nba` |
+| **Refresh data and get best odds for MLB and NHL** | `python3 best_lines.py --sports mlb nhl --newcall` |
+| **Get best odds for all major US leagues** | `python3 best_lines.py --sports nfl nba mlb nhl` |
 
 ## 📊 Sample Output
 
