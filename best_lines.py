@@ -240,8 +240,4 @@ if __name__ == "__main__":
             bot = BestOddsFinder(YOUR_API_KEY, api_key, emoji)
             bot.run_scanner(args)
         else:
-<<<<<<< HEAD
             print(f"Warning: Sport alias '{sport_alias}' not recognized and will be skipped.")
-=======
-            print(f"Warning: Sport alias '{sport_alias}' not recognized and will be skipped.")
->>>>>>> 461e9c0 (reinit)
